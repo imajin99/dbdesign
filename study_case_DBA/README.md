@@ -41,3 +41,4 @@ SELECT partman.create_parent(
 ```
 
 order table that already partitioned by date will look like this:
+![order_v2](./order_partitioned.png)
